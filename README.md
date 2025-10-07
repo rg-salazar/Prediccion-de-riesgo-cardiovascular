@@ -7,7 +7,7 @@ Aplicar herramientas de explicabilidad de modelos, específicamente LIME y SHAP,
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=tree&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-29B6F6?style=for-the-badge)
 ![LIME](https://img.shields.io/badge/LIME-76B041?style=for-the-badge)
 
